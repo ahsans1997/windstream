@@ -252,7 +252,7 @@ ul {
   background-size: cover;
 }
 .bg4 {
-  background-image: url(assets/images/bg/team-bg.jpg);
+  background-image: url(assets/images/bg/choose-bg.jpg);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4707,6 +4707,7 @@ body .search-modal .close:hover {
 .rs-team.style1 .team-wrap {
   position: relative;
   transition: all 0.3s ease;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 .rs-team.style1 .team-wrap .image-wrap {
   position: relative;
